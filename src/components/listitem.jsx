@@ -5,7 +5,7 @@ function Listitem () {
         <h4>OUR PRODUCTS</h4>
         <div className="articles">
             <div className="article1">
-                <img src="images/download.jpeg" alt="apple" />
+                <img src="images/fresh-red-apple-isolated-on-transparent-background-generative-ai-png.webp" alt="apple" />
                 <div className="message">
                 <h5>Apple</h5>
                 <p>$1.0</p>
@@ -53,7 +53,7 @@ function Listitem () {
             </div>
             </div>
             <div className="article8">
-                <img src="images/pot.jpeg" alt="apple" />
+                <img src="images/d7c7627c-3d11-4d8d-bfb3-f104a8e01fd0.__CR0,0,600,450_PT0_SX600_V1___.jpeg" alt="apple" />
                 <div className="message">
                 <h5>Pot</h5>
                 <p>$3.20</p>
@@ -61,9 +61,9 @@ function Listitem () {
             </div>
             </div>
             <div className="article9">
-                <img src="images/samsung.jpeg" alt="apple" />
+                <img src="images/Samsung-galaxy-s24-ultra-5g-titanium-violet-12gb-512gb-Front-Back-View.webp" alt="apple" />
                 <div className="message">
-                <h5>Samsung s21 Ultra</h5>
+                <h5>Samsung s24 Ultra</h5>
                 <p>$210.99</p>
                 <button className="btn">Add to Card</button>
             </div>

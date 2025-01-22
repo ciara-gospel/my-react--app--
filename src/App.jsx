@@ -114,6 +114,8 @@ const addProduct = (id, quantity) => {
              <h1></h1>
              <About></About>
              <h4>OUR PRODUCTS</h4>
+             <div className="all">
+             <div className="objects">
       {groceries.map((product) => (
         <Listitem
         // consumed by react
@@ -123,9 +125,10 @@ const addProduct = (id, quantity) => {
         onAddProduct={addProduct}
         />
       ))}
-
+       </div>
       <Basket basket={basket}/>
-
+      
+    </div>
     </div>
     </div>
   )
